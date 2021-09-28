@@ -1,4 +1,3 @@
-# Calendar App
 # Third-Party APIs Challenge: Work Day Scheduler
 
 This assignment required the creationg of a simple calendar application that allows a user to save events for each hour of the work day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery and Bootstrap.
@@ -24,6 +23,9 @@ This assignment required the creationg of a simple calendar application that all
 * _THEN the text for that event is saved in local storage_
 * _WHEN I refresh the page_
 * _THEN the saved events persist_
+
+## Screenshots
+
 
 ## My Solution
 
