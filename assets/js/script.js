@@ -69,5 +69,16 @@
     };
 
     timeView();
+
+    // click event handler, save to local storage
+    $(".container").on("click", "i", function() {
+        var dataHour = $(this).attr("data-hour");
+        var arrayIndex = dataHour - 9;
+        
+        descriptions[arrayIndex] = $(`textarea[data-hour = ${dataHour}]`).val().trim();
+    
+        localStorage.setItem("descriptions", JSON.stringify(descriptions));
+    });
+
 });
 
