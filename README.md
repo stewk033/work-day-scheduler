@@ -24,14 +24,19 @@ This assignment required the creationg of a simple calendar application that all
 * _WHEN I refresh the page_
 * _THEN the saved events persist_
 
-## Screenshots
+## Screenshot
 
+![SCREENSHOT](https://github.com/stewk033/work-day-scheduler/blob/main/assets/images/task_calendar_ss.png)
+
+## Credits
+
+Starter Code: (https://github.com/coding-boot-camp/super-disco)
 
 ## My Solution
 
-Live URL: ()
+Live URL: (https://stewk033.github.io/work-day-scheduler/)
 
 Refactored Code:
-* [HTML] 
-* [CSS] 
-* [JS] 
+* [HTML] (https://github.com/stewk033/work-day-scheduler/blob/main/index.html)
+* [CSS] (https://github.com/stewk033/work-day-scheduler/blob/main/assets/css/style.css)
+* [JS] (https://github.com/stewk033/work-day-scheduler/blob/main/assets/js/script.js)
